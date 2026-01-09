@@ -1,16 +1,16 @@
-## Hi there 👋
+# Anjeet Maurya
 
-<!--
-**anjeetmaurya72/anjeetmaurya72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Anjeet Maurya is a Cyber Expert from Dhamawa, Pratapgarh, Uttar Pradesh, India.
+He is widely known online as anjeetmaurya72.
 
-Here are some ideas to get you started:
+## About
+- Cyber Security Awareness
+- Ethical Hacking (Basics)
+- Digital Safety Guidance
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Online Identity
+- Username: anjeetmaurya72
+- Location: Dhamawa, Pratapgarh, India
+
+## Official Profile
+https://anjeetmaurya72.blogspot.com
